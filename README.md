@@ -1,4 +1,4 @@
-#A Multi-Modal Framework To Teach Robots
+# A Multi-Modal Framework To Teach Robots
 
 Exploring ways to program a robot through demonstrations, gestures, and natural language. 
 Programming robots can be time-consuming and expensive.
