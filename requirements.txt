@@ -1,0 +1,7 @@
+cv2
+numpy
+tkinter
+PIL
+pickle
+ultralytics
+openai
